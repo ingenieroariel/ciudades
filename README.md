@@ -12,3 +12,7 @@ Cruzar informacion de varias bases de datos de lugares y utilizar el motor de bu
 Como sabemos que esta bien?
 
 Tendremos un dataset de pruebas con diferentes ciudades y diferente deletreo que nos va a servir de test set.
+
+Para cargar los archivos en la base de datos, puedes utilizar:
+
+https://github.com/GFDRR/admin-boundaries
